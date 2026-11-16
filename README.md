@@ -1,0 +1,1 @@
+# ai-powered-sql-editor
